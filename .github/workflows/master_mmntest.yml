@@ -41,4 +41,4 @@ jobs:
           app-name: 'mmntest'
           slot-name: 'Production'
           package: ${{ env.AZURE_FUNCTIONAPP_PACKAGE_PATH }}
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_753917B79DD647A59EB60DABEBE5CEA3 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_E949CE0642CA4F648AD8FEB4C16ADE33 }}
